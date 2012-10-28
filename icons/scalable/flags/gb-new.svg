@@ -1147,9 +1147,9 @@
      borderopacity="0.27843137"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="11.313708"
-     inkscape:cx="33.818937"
-     inkscape:cy="5.0392824"
+     inkscape:zoom="7.9999995"
+     inkscape:cx="46.006865"
+     inkscape:cy="15.356517"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:grid-bbox="true"
@@ -1212,7 +1212,7 @@
        y="-230.98807" />
     <g
        id="g4245"
-       transform="translate(-0.08838835,-5.4800779)">
+       transform="translate(-0.05859375,0.52297757)">
       <g
          transform="matrix(1.1210623,0,0,1.5927468,7.6936425,-72.556082)"
          id="g4579">
@@ -1262,8 +1262,8 @@
     </g>
     <g
        id="g4255"
-       transform="matrix(-1.0006435,0,0,1.0006435,48.430064,26.413184)"
-       style="opacity:0.14814815">
+       transform="matrix(-1.0006435,0,0,1.0006435,48.430064,32.423592)"
+       style="opacity:0.14814812">
       <g
          id="g4257"
          transform="matrix(1.1210623,0,0,1.5927468,7.6936425,-72.556082)">
@@ -1301,9 +1301,9 @@
          height="19.917786"
          width="43.438274"
          id="rect4269"
-         style="font-size:12px;opacity:0.63374483999999998;fill:url(#linearGradient4273);fill-opacity:1;stroke:#a93636;stroke-width:0.67911619000000001;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
+         style="font-size:12px;opacity:0.63374484;fill:url(#linearGradient4273);fill-opacity:1;stroke:#a93636;stroke-width:0.67911619;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none" />
       <rect
-         style="font-size:12px;opacity:0.63374483999999998;fill:url(#linearGradient4275);fill-opacity:1;stroke:#a93636;stroke-width:0.65574098000000003;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
+         style="font-size:12px;opacity:0.63374484;fill:url(#linearGradient4275);fill-opacity:1;stroke:#a93636;stroke-width:0.65574098;stroke-miterlimit:4;stroke-opacity:0;stroke-dasharray:none"
          id="rect4271"
          width="43.443214"
          height="18.568129"
