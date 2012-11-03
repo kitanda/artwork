@@ -20,24 +20,39 @@ one.
 
 This is the credit risk application. Suggestion document with AAA.
 
-*** DONE Create icons for the main currencies
+*** Currencies
 
-**** DONE EUR
-**** DONE USD
-**** DONE JPY
-**** DONE GBP
-**** DONE AUD
-**** DONE CHF
-**** DONE CAD
+**** DKK - country dk
+**** HKD - country cn-hk
+**** NZD - country nz
+**** NOK - country no
+**** SGD - country sg
+**** ZAR - country za
+**** SEK - country se
+**** MXN - country me
+**** ISK - country is
+**** SKK - country sk
 
-*** DONE Create icons for major currency pairs
+*** Currency pairs
 
-**** DONE EUR/USD
-**** DONE USD/JPY
-**** DONE GBP/USD
-**** DONE AUD/USD
-**** DONE USD/CHF
-**** DONE USD/CAD
+**** NZD/USD
+**** USD/MXN
+**** EUR/NOK
+**** EUR/SKK
+**** EUR/ISK
+**** EUR/SEK
+**** USD/SGD
+**** USD/HKD
+
+*** Emerging markets
+
+**** USD/ZAR
+**** EUR/CZK
+**** EUR/HUF
+**** USD/PLN
+**** USD/TRY
+**** EUR/RON
+**** USD/THB
 
 ** Won't fix
 
