@@ -16,11 +16,16 @@ We have created new bases for the application icons, try making a
 dogen icon with the burgundy base to see if its better than the old
 one.
 
-*** DONE Create an icon for Creris
+*** Create an icon for Creris
 
 This is the credit risk application. Suggestion document with AAA.
 
-*** Currencies
+MC: App icon is cool, but can we make the AAA on the middle of the
+document and also make it look gray like the dogen cog? the AAA is the
+same metaphor as the cog basically so it should try to look the same
+style
+
+*** Currencies (Countries)
 
 **** DONE DKK - country dk
 **** DONE HKD - country cn-hk
