@@ -16,16 +16,16 @@ We have created new bases for the application icons, try making a
 dogen icon with the burgundy base to see if its better than the old
 one.
 
-*** DONE Create an icon for Creris
+*** Create an icon for Creris
 
 This is the credit risk application. Suggestion document with AAA.
 
 *** Currencies
 
-**** DONE DKK - country dk
-**** DONE HKD - country cn-hk
-**** DONE NZD - country nz
-**** DONE NOK - country no
+**** DKK - country dk
+**** HKD - country cn-hk
+**** NZD - country nz
+**** NOK - country no
 **** SGD - country sg
 **** ZAR - country za
 **** SEK - country se
