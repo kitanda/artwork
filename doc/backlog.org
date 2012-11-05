@@ -25,18 +25,18 @@ document and also make it look gray like the dogen cog? the AAA is the
 same metaphor as the cog basically so it should try to look the same
 style
 
-*** Currencies (Countries)
+*** DONE Currencies (Countries)
 
 **** DONE DKK - country dk
 **** DONE HKD - country cn-hk
 **** DONE NZD - country nz
 **** DONE NOK - country no
-**** SGD - country sg
-**** ZAR - country za
-**** SEK - country se
-**** MXN - country me
-**** ISK - country is
-**** SKK - country sk
+**** DONE SGD - country sg
+**** DONE ZAR - country za
+**** DONE SEK - country se
+**** DONE MXN - country me
+**** DONE ISK - country is
+**** DONE SKK - country sk
 
 *** Currency pairs
 
