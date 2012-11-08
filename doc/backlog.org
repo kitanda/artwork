@@ -38,16 +38,16 @@ style
 **** DONE ISK - country is
 **** DONE SKK - country sk
 
-*** Currency pairs
+*** DONE Currency pairs
 
-**** NZD/USD
-**** USD/MXN
-**** EUR/NOK
-**** EUR/SKK
-**** EUR/ISK
-**** EUR/SEK
-**** USD/SGD
-**** USD/HKD
+**** DONE NZD/USD
+**** DONE USD/MXN
+**** DONE EUR/NOK
+**** DONE EUR/SKK
+**** DONE EUR/ISK
+**** DONE EUR/SEK
+**** DONE USD/SGD
+**** DONE USD/HKD
 
 *** Emerging markets
 
