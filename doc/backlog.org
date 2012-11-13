@@ -25,22 +25,22 @@ document and also make it look gray like the dogen cog? the AAA is the
 same metaphor as the cog basically so it should try to look the same
 style
 
-*** DONE Emerging markets
+*** Missing currency pairs
 
-**** DONE CZ
-**** DONE HU
-**** DONE PL
-**** DONE TR
-**** DONE RO
-**** DONE TH
-**** DONE USD/ZAR - us-za
-**** DONE EUR/CZK - eu-cz
-**** DONE EUR/HUF - eu-hu
-**** DONE USD/PLN - us-pl
-**** DONE USD/TRY - us-tr
-**** DONE EUR/RON - eu-ro
-**** DONE USD/THB - us-th
-
+**** EURCHF eu-ch
+**** EURRMB eu-cn
+**** EURJPY eu-jp
+**** EURGBP eu-gb
+**** GBPNOK gb-no
+**** GBPSEK gb-se
+**** GBPISK gb-is
+**** GBPCHF gb-ch
+**** GBPIND gb-in
+**** GBPJPY gb-jp
+**** CHFJPY ch-jp
+*** More emerging countries
+**** AR
+**** KO
 ** Won't fix
 
 Stories which we do not think we are going to work on.
