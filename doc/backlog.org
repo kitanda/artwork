@@ -25,21 +25,21 @@ document and also make it look gray like the dogen cog? the AAA is the
 same metaphor as the cog basically so it should try to look the same
 style
 
-*** Emerging markets
+*** DONE Emerging markets
 
-**** CZ
-**** HU
-**** PL
-**** TR
-**** RO
-**** TH
-**** USD/ZAR - us-za
-**** EUR/CZK - eu-cz
-**** EUR/HUF - eu-hu
-**** USD/PLN - us-pl
-**** USD/TRY - us-tr
-**** EUR/RON - eu-ro
-**** USD/THB - us-th
+**** DONE CZ
+**** DONE HU
+**** DONE PL
+**** DONE TR
+**** DONE RO
+**** DONE TH
+**** DONE USD/ZAR - us-za
+**** DONE EUR/CZK - eu-cz
+**** DONE EUR/HUF - eu-hu
+**** DONE USD/PLN - us-pl
+**** DONE USD/TRY - us-tr
+**** DONE EUR/RON - eu-ro
+**** DONE USD/THB - us-th
 
 ** Won't fix
 
