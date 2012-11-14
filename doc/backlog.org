@@ -27,8 +27,8 @@ style
 
 *** Missing currency pairs
 
-**** EURCHF eu-ch
-**** EURRMB eu-cn
+**** DONE EURCHF eu-ch
+**** DONE EURRMB eu-cn
 **** EURJPY eu-jp
 **** EURGBP eu-gb
 **** GBPNOK gb-no
@@ -38,9 +38,9 @@ style
 **** GBPIND gb-in
 **** GBPJPY gb-jp
 **** CHFJPY ch-jp
-*** More emerging countries
-**** AR
-**** KO
+*** DONE More emerging countries
+**** DONE AR
+**** DONE KO
 ** Won't fix
 
 Stories which we do not think we are going to work on.
