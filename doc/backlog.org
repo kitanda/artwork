@@ -29,10 +29,10 @@ style
 
 **** DONE EURCHF eu-ch
 **** DONE EURRMB eu-cn
-**** EURJPY eu-jp
-**** EURGBP eu-gb
-**** GBPNOK gb-no
-**** GBPSEK gb-se
+**** DONE EURJPY eu-jp
+**** DONE EURGBP eu-gb
+**** DONE GBPNOK gb-no
+**** DONE GBPSEK gb-se
 **** GBPISK gb-is
 **** GBPCHF gb-ch
 **** GBPIND gb-in
