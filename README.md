@@ -1,4 +1,0 @@
-artwork
-=======
-
-Icons, branding etc

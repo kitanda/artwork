@@ -1,0 +1,12 @@
+* Overview
+
+** What is artwork
+
+This repository contains all of the user experience artefacts such as
+icons, branding etc.
+
+** Why do we need artwork
+
+Although it would make more sense to have the icons next to the
+application that uses them, with this separation the UX developers can
+commit without fear of breaking code.
