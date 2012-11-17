@@ -25,13 +25,13 @@ document and also make it look gray like the dogen cog? the AAA is the
 same metaphor as the cog basically so it should try to look the same
 style
 
-*** Missing currency pairs
+*** DONE Missing currency pairs
 
-**** GBPISK gb-is
-**** GBPCHF gb-ch
-**** GBPIND gb-in
-**** GBPJPY gb-jp
-**** CHFJPY ch-jp
+**** DONE GBPISK gb-is
+**** DONE GBPCHF gb-ch
+**** DONE GBPIND gb-in
+**** DONE GBPJPY gb-jp
+**** DONE CHFJPY ch-jp
 ** Won't fix
 
 Stories which we do not think we are going to work on.
