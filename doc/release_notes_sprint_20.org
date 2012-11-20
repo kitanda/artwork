@@ -18,5 +18,4 @@ This file contains all stories that were closed during sprint 20.
 *** COMPLETED Add flags for emerging markets currency pairs           :story:
     CLOSED: [2012-11-16 Fri 10:30]
 
-
 ** Deprecated Development Stories
