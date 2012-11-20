@@ -25,13 +25,19 @@ document and also make it look gray like the dogen cog? the AAA is the
 same metaphor as the cog basically so it should try to look the same
 style
 
-*** DONE Missing currency pairs
+*** Country flags starting with letter A
 
-**** DONE GBPISK gb-is
-**** DONE GBPCHF gb-ch
-**** DONE GBPIND gb-in
-**** DONE GBPJPY gb-jp
-**** DONE CHFJPY ch-jp
+Move flags from =raw= and process them.
+
+**** ad.svg
+**** ae.svg
+**** af.svg
+**** al.svg
+**** am.svg
+**** ao.svg
+**** aq.svg
+**** at.svg
+**** az.svg
 ** Won't fix
 
 Stories which we do not think we are going to work on.
