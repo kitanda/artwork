@@ -1,5 +1,6 @@
 #+title: Backlog
 #+options: date:nil toc:nil author:nil num:nil
+#+todo: ANALYSIS IMPLEMENTATION TESTING | COMPLETED CANCELLED
 #+tags: story(s) epic(e) task(t) note(n) spike(p)
 
 * Backlog
@@ -25,19 +26,22 @@ document and also make it look gray like the dogen cog? the AAA is the
 same metaphor as the cog basically so it should try to look the same
 style
 
-*** DONE Country flags starting with letter A
-
-Move flags from =raw= and process them.
-
-**** DONE ad.svg
-**** DONE ae.svg
-**** DONE af.svg
-**** DONE al.svg
-**** DONE am.svg
-**** DONE ao.svg
-**** DONE aq.svg
-**** DONE at.svg
-**** DONE az.svg
+*** Country flags starting with letter B                              :story:
+**** ba.svg                                                            :task:
+**** bb.svg                                                            :task:
+**** bd.svg                                                            :task:
+**** be.svg                                                            :task:
+**** bf.svg                                                            :task:
+**** bg.svg                                                            :task:
+**** bh.svg                                                            :task:
+**** bi.svg                                                            :task:
+**** bj.svg                                                            :task:
+**** bn.svg                                                            :task:
+**** bo.svg                                                            :task:
+**** bt.svg                                                            :task:
+**** bw.svg                                                            :task:
+**** by.svg                                                            :task:
+**** bz.svg                                                            :task:
 ** Won't fix
 
 Stories which we do not think we are going to work on.
