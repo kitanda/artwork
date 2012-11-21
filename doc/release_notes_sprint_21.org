@@ -8,4 +8,18 @@
 This file contains all stories that were closed during sprint 20.
 
 ** Development Stories Implemented
+*** COMPLETED Country flags starting with letter A
+
+These icons are country icons starting with the letter A.
+
+**** COMPLETED ad.svg
+**** COMPLETED ae.svg
+**** COMPLETED af.svg
+**** COMPLETED al.svg
+**** COMPLETED am.svg
+**** COMPLETED ao.svg
+**** COMPLETED aq.svg
+**** COMPLETED at.svg
+**** COMPLETED az.svg
+
 ** Deprecated Development Stories
