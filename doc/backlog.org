@@ -26,22 +26,22 @@ document and also make it look gray like the dogen cog? the AAA is the
 same metaphor as the cog basically so it should try to look the same
 style
 
-*** Country flags starting with letter B                              :story:
-**** ba.svg                                                            :task:
-**** bb.svg                                                            :task:
-**** bd.svg                                                            :task:
-**** be.svg                                                            :task:
-**** bf.svg                                                            :task:
-**** bg.svg                                                            :task:
-**** bh.svg                                                            :task:
-**** bi.svg                                                            :task:
-**** bj.svg                                                            :task:
-**** bn.svg                                                            :task:
-**** bo.svg                                                            :task:
-**** bt.svg                                                            :task:
-**** bw.svg                                                            :task:
-**** by.svg                                                            :task:
-**** bz.svg                                                            :task:
+*** DONE Country flags starting with letter B                              :story:
+**** DONE ba.svg                                                            :task:
+**** DONE bb.svg                                                            :task:
+**** DONE bd.svg                                                            :task:
+**** DONE be.svg                                                            :task:
+**** DONE bf.svg                                                            :task:
+**** DONE bg.svg                                                            :task:
+**** DONE bh.svg                                                            :task:
+**** DONE bi.svg                                                            :task:
+**** DONE bj.svg                                                            :task:
+**** DONE bn.svg                                                            :task:
+**** DONE bo.svg                                                            :task:
+**** DONE bt.svg                                                            :task:
+**** DONE bw.svg                                                            :task:
+**** DONE by.svg                                                            :task:
+**** DONE bz.svg                                                            :task:
 ** Won't fix
 
 Stories which we do not think we are going to work on.
