@@ -26,22 +26,229 @@ document and also make it look gray like the dogen cog? the AAA is the
 same metaphor as the cog basically so it should try to look the same
 style
 
-*** DONE Country flags starting with letter B                              :story:
-**** DONE ba.svg                                                            :task:
-**** DONE bb.svg                                                            :task:
-**** DONE bd.svg                                                            :task:
-**** DONE be.svg                                                            :task:
-**** DONE bf.svg                                                            :task:
-**** DONE bg.svg                                                            :task:
-**** DONE bh.svg                                                            :task:
-**** DONE bi.svg                                                            :task:
-**** DONE bj.svg                                                            :task:
-**** DONE bn.svg                                                            :task:
-**** DONE bo.svg                                                            :task:
-**** DONE bt.svg                                                            :task:
-**** DONE bw.svg                                                            :task:
-**** DONE by.svg                                                            :task:
-**** DONE bz.svg                                                            :task:
+*** Country flags starting with letter C
+
+**** cd.svg
+**** cf.svg
+**** cg.svg
+**** ci.svg
+**** ck.svg
+**** cl.svg
+**** cm.svg
+**** cn-mo.svg
+**** co.svg
+**** cr.svg
+**** cu.svg
+**** cv.svg
+**** cy.svg
+
+*** Country flags starting with letter D
+
+**** de.svg
+**** dj.svg
+**** dm.svg
+**** do.svg
+**** dz.svg
+
+*** Country flags starting with letter E
+
+**** ec.svg
+**** ee.svg
+**** eg.svg
+**** eh.svg
+**** er.svg
+**** es.svg
+**** et.svg
+
+*** Country flags starting with letter F
+
+**** fi.svg
+**** fj.svg
+**** fm.svg
+**** fr.svg
+
+*** Country flags starting with letter G
+
+**** ga.svg
+**** gb-en.svg
+**** gb-sc.svg
+**** gb-wa.svg
+**** gd.svg
+**** ge.svg
+**** gh.svg
+**** gm.svg
+**** gn.svg
+**** gq.svg
+**** gr.svg
+**** gt.svg
+**** gw.svg
+**** gy.svg
+
+*** Country flags starting with letter H
+
+**** hn.svg
+**** hr.svg
+**** ht.svg
+**** id.svg
+
+*** Country flags starting with letter I
+
+**** ie.svg
+**** il.svg
+**** iq.svg
+**** ir.svg
+**** it.svg
+
+*** Country flags starting with letter J
+
+**** jm.svg
+**** jo.svg
+
+*** Country flags starting with letter K
+
+**** ke.svg
+**** kg.svg
+**** kh.svg
+**** ki.svg
+**** km.svg
+**** kn.svg
+**** kp.svg
+**** kw.svg
+**** kz.svg
+
+*** Country flags starting with letter L
+
+**** la.svg
+**** lb.svg
+**** lc.svg
+**** li.svg
+**** lk.svg
+**** lr.svg
+**** ls.svg
+**** lt.svg
+**** lu.svg
+**** lv.svg
+**** ly.svg
+
+*** Country flags starting with letter M
+
+**** ma.svg
+**** mc.svg
+**** md.svg
+**** mg.svg
+**** mk.svg
+**** ml.svg
+**** mm.svg
+**** mn.svg
+**** mp.svg
+**** mr.svg
+**** ms.svg
+**** mt.svg
+**** mu.svg
+**** mv.svg
+**** mw.svg
+**** my.svg
+**** mz.svg
+
+*** Country flags starting with letter N
+
+**** na.svg
+**** ne.svg
+**** ng.svg
+**** ni.svg
+**** nl-an.svg
+**** nl-aw.svg
+**** nl.svg
+**** np.svg
+**** nr.svg
+**** nu.svg
+
+*** Country flags starting with letter O
+
+**** om.svg
+
+*** Country flags starting with letter P
+
+**** pa.svg
+**** pe.svg
+**** pg.svg
+**** ph.svg
+**** pk.svg
+**** pr.svg
+**** ps.svg
+**** pt.svg
+**** pw.svg
+**** py.svg
+
+*** Country flags starting with letter Q
+
+**** qa.svg
+
+*** Country flags starting with letter R
+
+**** rw.svg
+
+*** Country flags starting with letter R
+
+**** sa.svg
+**** sb.svg
+**** sc.svg
+**** sd.svg
+**** si.svg
+**** sl.svg
+**** sm.svg
+**** sn.svg
+**** so.svg
+**** sr.svg
+**** st.svg
+**** sv.svg
+**** sy.svg
+**** sz.svg
+
+*** Country flags starting with letter T
+
+**** td.svg
+**** tg.svg
+**** tj.svg
+**** tm.svg
+**** tn.svg
+**** to.svg
+**** tp.svg
+**** tt.svg
+**** tv.svg
+**** tw.svg
+**** tz.svg
+
+*** Country flags starting with letter U
+
+**** ua.svg
+**** ug.svg
+**** unknown.svg
+**** uy.svg
+**** uz.svg
+
+*** Country flags starting with letter V
+
+**** va.svg
+**** vc.svg
+**** ve.svg
+**** vn.svg
+**** vu.svg
+
+*** Country flags starting with letter W
+
+**** ws.svg
+
+*** Country flags starting with letter Y
+
+**** ye.svg
+**** yu.svg
+
+*** Country flags starting with letter Z
+
+**** zm.svg
+**** zw.svg
+
 ** Won't fix
 
 Stories which we do not think we are going to work on.
