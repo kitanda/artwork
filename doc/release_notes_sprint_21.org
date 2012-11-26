@@ -22,4 +22,21 @@ These icons are country icons starting with the letter A.
 **** COMPLETED at.svg
 **** COMPLETED az.svg
 
+*** COMPLETED Country flags starting with letter B                    :story:
+**** COMPLETED ba.svg                                                  :task:
+**** COMPLETED bb.svg                                                  :task:
+**** COMPLETED bd.svg                                                  :task:
+**** COMPLETED be.svg                                                  :task:
+**** COMPLETED bf.svg                                                  :task:
+**** COMPLETED bg.svg                                                  :task:
+**** COMPLETED bh.svg                                                  :task:
+**** COMPLETED bi.svg                                                  :task:
+**** COMPLETED bj.svg                                                  :task:
+**** COMPLETED bn.svg                                                  :task:
+**** COMPLETED bo.svg                                                  :task:
+**** COMPLETED bt.svg                                                  :task:
+**** COMPLETED bw.svg                                                  :task:
+**** COMPLETED by.svg                                                  :task:
+**** COMPLETED bz.svg                                                  :task:
+
 ** Deprecated Development Stories
