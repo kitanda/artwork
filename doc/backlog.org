@@ -26,30 +26,6 @@ document and also make it look gray like the dogen cog? the AAA is the
 same metaphor as the cog basically so it should try to look the same
 style
 
-*** DONE Country flags starting with letter C
-
-**** DONE cd.svg
-**** DONE cf.svg
-**** DONE cg.svg
-**** DONE ci.svg
-**** DONE ck.svg
-**** DONE cl.svg
-**** DONE cm.svg
-**** DONE cn-mo.svg
-**** DONE co.svg
-**** DONE cr.svg
-**** DONE cu.svg
-**** DONE cv.svg
-**** DONE cy.svg
-
-*** DONE Country flags starting with letter D
-
-**** DONE de.svg
-**** DONE dj.svg
-**** DONE dm.svg
-**** DONE do.svg
-**** DONE dz.svg
-
 *** Country flags starting with letter E
 
 **** ec.svg

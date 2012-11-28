@@ -40,3 +40,26 @@ These icons are country icons starting with the letter A.
 **** COMPLETED bz.svg                                                  :task:
 
 ** Deprecated Development Stories
+*** COMPLETED Country flags starting with letter C
+
+**** COMPLETED cd.svg
+**** COMPLETED cf.svg
+**** COMPLETED cg.svg
+**** COMPLETED ci.svg
+**** COMPLETED ck.svg
+**** COMPLETED cl.svg
+**** COMPLETED cm.svg
+**** COMPLETED cn-mo.svg
+**** COMPLETED co.svg
+**** COMPLETED cr.svg
+**** COMPLETED cu.svg
+**** COMPLETED cv.svg
+**** COMPLETED cy.svg
+
+*** COMPLETED Country flags starting with letter D
+
+**** COMPLETED de.svg
+**** COMPLETED dj.svg
+**** COMPLETED dm.svg
+**** COMPLETED do.svg
+**** COMPLETED dz.svg
