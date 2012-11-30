@@ -35,7 +35,6 @@ style
 **** er.svg
 **** es.svg
 **** et.svg
-
 *** Country flags starting with letter F
 
 **** fi.svg
