@@ -47,12 +47,12 @@ style
 
 **** DONE ga.svg
 **** DONE gb-en.svg
-**** gb-sc.svg
-**** gb-wa.svg
-**** gd.svg
-**** ge.svg
-**** gh.svg
-**** gm.svg
+**** DONE gb-sc.svg
+**** DONE gb-wa.svg
+**** DONE gd.svg
+**** DONE ge.svg
+**** DONE gh.svg
+**** DONE gm.svg
 **** gn.svg
 **** gq.svg
 **** gr.svg
