@@ -43,7 +43,7 @@ style
 **** DONE fm.svg
 **** DONE fr.svg
 
-*** Country flags starting with letter G
+*** DONE Country flags starting with letter G
 
 **** DONE ga.svg
 **** DONE gb-en.svg
@@ -53,12 +53,12 @@ style
 **** DONE ge.svg
 **** DONE gh.svg
 **** DONE gm.svg
-**** gn.svg
-**** gq.svg
-**** gr.svg
-**** gt.svg
-**** gw.svg
-**** gy.svg
+**** DONE gn.svg
+**** DONE gq.svg
+**** DONE gr.svg
+**** DONE gt.svg
+**** DONE gw.svg
+**** DONE gy.svg
 
 *** Country flags starting with letter H
 
