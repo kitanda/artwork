@@ -62,15 +62,15 @@ style
 
 *** Country flags starting with letter H
 
-**** hn.svg
-**** hr.svg
-**** ht.svg
-**** id.svg
+**** DONE hn.svg
+**** DONE hr.svg
+**** DONE ht.svg
 
 *** Country flags starting with letter I
 
-**** ie.svg
-**** il.svg
+**** DONE id.svg
+**** DONE ie.svg
+**** DONE il.svg
 **** iq.svg
 **** ir.svg
 **** it.svg
