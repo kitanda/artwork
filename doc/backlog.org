@@ -66,45 +66,45 @@ style
 **** DONE hr.svg
 **** DONE ht.svg
 
-*** Country flags starting with letter I
+*** DONE Country flags starting with letter I
 
 **** DONE id.svg
 **** DONE ie.svg
 **** DONE il.svg
-**** iq.svg
-**** ir.svg
-**** it.svg
+**** DONE iq.svg
+**** DONE ir.svg
+**** DONE it.svg
 
-*** Country flags starting with letter J
+*** DONE Country flags starting with letter J
 
-**** jm.svg
-**** jo.svg
+**** DONE jm.svg
+**** DONE jo.svg
 
-*** Country flags starting with letter K
+*** DONE Country flags starting with letter K
 
-**** ke.svg
-**** kg.svg
-**** kh.svg
-**** ki.svg
-**** km.svg
-**** kn.svg
-**** kp.svg
-**** kw.svg
-**** kz.svg
+**** DONE ke.svg
+**** DONE kg.svg
+**** DONE kh.svg
+**** DONE ki.svg
+**** DONE km.svg
+**** DONE kn.svg
+**** DONE kp.svg
+**** DONE kw.svg
+**** DONE kz.svg
 
-*** Country flags starting with letter L
+*** DONE Country flags starting with letter L
 
-**** la.svg
-**** lb.svg
-**** lc.svg
-**** li.svg
-**** lk.svg
-**** lr.svg
-**** ls.svg
-**** lt.svg
-**** lu.svg
-**** lv.svg
-**** ly.svg
+**** DONE la.svg
+**** DONE lb.svg
+**** DONE lc.svg
+**** DONE li.svg
+**** DONE lk.svg
+**** DONE lr.svg
+**** DONE ls.svg
+**** DONE lt.svg
+**** DONE lu.svg
+**** DONE lv.svg
+**** DONE ly.svg
 
 *** Country flags starting with letter M
 
