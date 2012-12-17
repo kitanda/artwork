@@ -1,0 +1,179 @@
+#+title: Release Notes for Sprint 22
+#+options: date:nil toc:nil author:nil num:nil
+#+todo: ANALYSIS IMPLEMENTATION TESTING | COMPLETED CANCELLED
+#+tags: story(s) epic(e) task(t) note(n) spike(p)
+
+* Release Notes
+
+This file contains all stories that were closed during sprint 20.
+
+** Development Stories Implemented
+
+*** COMPLETED Country flags starting with letter E
+
+These icons are country icons starting with the letter E.
+
+**** COMPLETED ec.svg
+**** COMPLETED ee.svg
+**** COMPLETED eg.svg
+**** COMPLETED eh.svg
+**** COMPLETED er.svg
+**** COMPLETED es.svg
+**** COMPLETED et.svg
+
+*** COMPLETED Country flags starting with letter F
+
+These icons are country icons starting with the letter F.
+
+**** COMPLETED fi.svg
+**** COMPLETED fj.svg
+**** COMPLETED fm.svg
+**** COMPLETED fr.svg
+
+*** COMPLETED Country flags starting with letter G
+
+These icons are country icons starting with the letter G.
+
+**** COMPLETED ga.svg
+**** COMPLETED gb-en.svg
+**** COMPLETED gb-sc.svg
+**** COMPLETED gb-wa.svg
+**** COMPLETED gd.svg
+**** COMPLETED ge.svg
+**** COMPLETED gh.svg
+**** COMPLETED gm.svg
+**** COMPLETED gn.svg
+**** COMPLETED gq.svg
+**** COMPLETED gr.svg
+**** COMPLETED gt.svg
+**** COMPLETED gw.svg
+**** COMPLETED gy.svg
+
+*** COMPLETED Country flags starting with letter H
+    CLOSED: [2012-12-17 Mon 07:34]
+
+These icons are country icons starting with the letter H.
+
+**** COMPLETED hn.svg
+**** COMPLETED hr.svg
+**** COMPLETED ht.svg
+
+*** COMPLETED Country flags starting with letter I
+
+These icons are country icons starting with the letter I.
+
+**** COMPLETED id.svg
+**** COMPLETED ie.svg
+**** COMPLETED il.svg
+**** COMPLETED iq.svg
+**** COMPLETED ir.svg
+**** COMPLETED it.svg
+
+*** COMPLETED Country flags starting with letter J
+
+These icons are country icons starting with the letter J.
+
+**** COMPLETED jm.svg
+**** COMPLETED jo.svg
+
+*** COMPLETED Country flags starting with letter K
+
+These icons are country icons starting with the letter K.
+
+**** COMPLETED ke.svg
+**** COMPLETED kg.svg
+**** COMPLETED kh.svg
+**** COMPLETED ki.svg
+**** COMPLETED km.svg
+**** COMPLETED kn.svg
+**** COMPLETED kp.svg
+**** COMPLETED kw.svg
+**** COMPLETED kz.svg
+
+*** COMPLETED Country flags starting with letter L
+
+These icons are country icons starting with the letter L.
+
+**** COMPLETED la.svg
+**** COMPLETED lb.svg
+**** COMPLETED lc.svg
+**** COMPLETED li.svg
+**** COMPLETED lk.svg
+**** COMPLETED lr.svg
+**** COMPLETED ls.svg
+**** COMPLETED lt.svg
+**** COMPLETED lu.svg
+**** COMPLETED lv.svg
+**** COMPLETED ly.svg
+
+*** COMPLETED Country flags starting with letter M
+
+These icons are country icons starting with the letter M.
+
+**** COMPLETED ma.svg
+**** COMPLETED mc.svg
+**** COMPLETED md.svg
+**** COMPLETED mg.svg
+**** COMPLETED mk.svg
+**** COMPLETED ml.svg
+**** COMPLETED mm.svg
+**** COMPLETED mn.svg
+**** COMPLETED mp.svg
+**** COMPLETED mr.svg
+**** COMPLETED ms.svg
+**** COMPLETED mt.svg
+**** COMPLETED mu.svg
+**** COMPLETED mv.svg
+**** COMPLETED mw.svg
+**** COMPLETED my.svg
+**** COMPLETED mz.svg
+
+*** COMPLETED Country flags starting with letter N
+
+These icons are country icons starting with the letter N.
+
+**** COMPLETED na.svg
+**** COMPLETED ne.svg
+**** COMPLETED ng.svg
+**** COMPLETED ni.svg
+**** COMPLETED nl-an.svg
+**** COMPLETED nl-aw.svg
+**** COMPLETED nl.svg
+**** COMPLETED np.svg
+**** COMPLETED nr.svg
+**** COMPLETED nu.svg
+
+*** COMPLETED Country flags starting with letter O
+
+These icons are country icons starting with the letter O.
+
+**** COMPLETED om.svg
+
+*** COMPLETED Country flags starting with letter P
+
+These icons are country icons starting with the letter P.
+
+**** COMPLETED pa.svg
+**** COMPLETED pe.svg
+**** COMPLETED pg.svg
+**** COMPLETED ph.svg
+**** COMPLETED pk.svg
+**** COMPLETED pr.svg
+**** COMPLETED ps.svg
+**** COMPLETED pt.svg
+**** COMPLETED pw.svg
+**** COMPLETED py.svg
+
+*** COMPLETED Country flags starting with letter Q
+
+These icons are country icons starting with the letter Q.
+
+**** COMPLETED qa.svg
+
+*** COMPLETED Country flags starting with letter R
+
+These icons are country icons starting with the letter R.
+
+**** COMPLETED rw.svg
+
+** Deprecated Development Stories

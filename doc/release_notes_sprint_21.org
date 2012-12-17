@@ -1,4 +1,4 @@
-#+title: Release Notes for Sprint 20
+#+title: Release Notes for Sprint 21
 #+options: date:nil toc:nil author:nil num:nil
 #+todo: ANALYSIS IMPLEMENTATION TESTING | COMPLETED CANCELLED
 #+tags: story(s) epic(e) task(t) note(n) spike(p)
