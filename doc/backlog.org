@@ -106,25 +106,25 @@ style
 **** DONE lv.svg
 **** DONE ly.svg
 
-*** Country flags starting with letter M
+*** DONE Country flags starting with letter M
 
-**** ma.svg
-**** mc.svg
-**** md.svg
-**** mg.svg
-**** mk.svg
-**** ml.svg
-**** mm.svg
-**** mn.svg
-**** mp.svg
-**** mr.svg
-**** ms.svg
-**** mt.svg
-**** mu.svg
-**** mv.svg
-**** mw.svg
-**** my.svg
-**** mz.svg
+**** DONE ma.svg
+**** DONE mc.svg
+**** DONE md.svg
+**** DONE mg.svg
+**** DONE mk.svg
+**** DONE ml.svg
+**** DONE mm.svg
+**** DONE mn.svg
+**** DONE mp.svg
+**** DONE mr.svg
+**** DONE ms.svg
+**** DONE mt.svg
+**** DONE mu.svg
+**** DONE mv.svg
+**** DONE mw.svg
+**** DONE my.svg
+**** DONE mz.svg
 
 *** Country flags starting with letter N
 
