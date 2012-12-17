@@ -156,13 +156,13 @@ style
 **** DONE pw.svg
 **** DONE py.svg
 
-*** Country flags starting with letter Q
+*** DONE Country flags starting with letter Q
 
-**** qa.svg
+**** DONE qa.svg
 
-*** Country flags starting with letter R
+*** DONE Country flags starting with letter R
 
-**** rw.svg
+**** DONE rw.svg
 
 *** Country flags starting with letter R
 
