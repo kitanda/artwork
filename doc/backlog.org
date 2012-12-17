@@ -139,9 +139,9 @@ style
 **** DONE nr.svg
 **** DONE nu.svg
 
-*** Country flags starting with letter O
+*** DONE Country flags starting with letter O
 
-**** om.svg
+**** DONE om.svg
 
 *** Country flags starting with letter P
 
