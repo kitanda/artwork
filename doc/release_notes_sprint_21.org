@@ -5,7 +5,7 @@
 
 * Release Notes
 
-This file contains all stories that were closed during sprint 20.
+This file contains all stories that were closed during sprint 21.
 
 ** Development Stories Implemented
 *** COMPLETED Country flags starting with letter A                    :story:
