@@ -126,18 +126,18 @@ style
 **** DONE my.svg
 **** DONE mz.svg
 
-*** Country flags starting with letter N
+*** DONE Country flags starting with letter N
 
-**** na.svg
-**** ne.svg
-**** ng.svg
-**** ni.svg
-**** nl-an.svg
-**** nl-aw.svg
-**** nl.svg
-**** np.svg
-**** nr.svg
-**** nu.svg
+**** DONE na.svg
+**** DONE ne.svg
+**** DONE ng.svg
+**** DONE ni.svg
+**** DONE nl-an.svg
+**** DONE nl-aw.svg
+**** DONE nl.svg
+**** DONE np.svg
+**** DONE nr.svg
+**** DONE nu.svg
 
 *** Country flags starting with letter O
 
