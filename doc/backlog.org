@@ -143,18 +143,18 @@ style
 
 **** DONE om.svg
 
-*** Country flags starting with letter P
+*** DONE Country flags starting with letter P
 
-**** pa.svg
-**** pe.svg
-**** pg.svg
-**** ph.svg
-**** pk.svg
-**** pr.svg
-**** ps.svg
-**** pt.svg
-**** pw.svg
-**** py.svg
+**** DONE pa.svg
+**** DONE pe.svg
+**** DONE pg.svg
+**** DONE ph.svg
+**** DONE pk.svg
+**** DONE pr.svg
+**** DONE ps.svg
+**** DONE pt.svg
+**** DONE pw.svg
+**** DONE py.svg
 
 *** Country flags starting with letter Q
 
