@@ -28,17 +28,17 @@ style
 
 *** Country flags starting with letter T
 
-**** td.svg
-**** tg.svg
-**** tj.svg
-**** tm.svg
-**** tn.svg
-**** to.svg
-**** tp.svg
-**** tt.svg
-**** tv.svg
-**** tw.svg
-**** tz.svg
+**** DONE td.svg
+**** DONE tg.svg
+**** DONE tj.svg
+**** DONE tm.svg
+**** DONE tn.svg
+**** DONE to.svg
+**** DONE tp.svg
+**** DONE tt.svg
+**** DONE tv.svg
+**** DONE tw.svg
+**** DONE tz.svg
 
 *** Country flags starting with letter U
 
